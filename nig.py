@@ -1,4 +1,6 @@
 print("jambo tanzania")
 
 
-print("clone"")
+print("clone")
+
+print("lrts rest")
